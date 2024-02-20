@@ -1,4 +1,4 @@
-document.write("&nbsp;&nbsp;&nbsp;&nbsp;¡ù<font color=4B4221>±¾Õ¾ÊÇ¹ØÓÚ¹ÅµäÎÄÑ§<br>&nbsp;&nbsp;&nbsp;µÄ¸öÈËÍøÕ¾,Èç¹û·şÎñ²»<br>&nbsp;&nbsp;&nbsp;µ½Î»£¬ÇëÌåÁÂ.</font>");
-document.write("<br>&nbsp;&nbsp;&nbsp;&nbsp;¡ù<font color=4B4221>±¾Õ¾³ÌĞòÊÇÍøÉÏÏÂÔØ<br>&nbsp;&nbsp;&nbsp;µÄÃâ·ÑÔ´Âë.»¹²»´í°É.</font>");
-document.write("<br>&nbsp;&nbsp;&nbsp;&nbsp;¡ù<font color=4B4221>ÕâÌ×Ä£°æÊÇÎÒ×Ô¼ºĞŞ<br>&nbsp;&nbsp;&nbsp;¸ÄµÄ£¬×ÔÎÒ¸Ğ¾õ»¹²»´í.</font>");
-document.write("<br>&nbsp;&nbsp;&nbsp;&nbsp;¡ù<font color=4B4221>¸ĞĞ»<a href=http://www.htsky.com>º£ÌÄ±ğÔ·</a>Ìá¹©<br>&nbsp;&nbsp;&nbsp;¼¼ÊõÖ§³Ö.</font>");
+document.write("&nbsp;&nbsp;&nbsp;&nbsp;â€»<font color=4B4221>æœ¬ç«™æ˜¯å…³äºå¤å…¸æ–‡å­¦<br>&nbsp;&nbsp;&nbsp;çš„ä¸ªäººç½‘ç«™,å¦‚æœæœåŠ¡ä¸<br>&nbsp;&nbsp;&nbsp;åˆ°ä½ï¼Œè¯·ä½“è°….</font>");
+document.write("<br>&nbsp;&nbsp;&nbsp;&nbsp;â€»<font color=4B4221>æœ¬ç«™ç¨‹åºæ˜¯ç½‘ä¸Šä¸‹è½½<br>&nbsp;&nbsp;&nbsp;çš„å…è´¹æºç .è¿˜ä¸é”™å§.</font>");
+document.write("<br>&nbsp;&nbsp;&nbsp;&nbsp;â€»<font color=4B4221>è¿™å¥—æ¨¡ç‰ˆæ˜¯æˆ‘è‡ªå·±ä¿®<br>&nbsp;&nbsp;&nbsp;æ”¹çš„ï¼Œè‡ªæˆ‘æ„Ÿè§‰è¿˜ä¸é”™.</font>");
+document.write("<br>&nbsp;&nbsp;&nbsp;&nbsp;â€»<font color=4B4221>æ„Ÿè°¢<a href=http://www.b>å¬æ¾é˜</a>æä¾›<br>&nbsp;&nbsp;&nbsp;æŠ€æœ¯æ”¯æŒ.</font>");
